@@ -35,7 +35,7 @@ public class Bird {
 		
 	}
 	
-	//鸟飞的变换动作
+	//鸟飞翔的变换动作
 	public void fly() {
 		index++;//图片不断的变化
 		//不断的替换图片，是鸟产生飞的动作
